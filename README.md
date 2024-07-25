@@ -1,4 +1,4 @@
-## Unlocking the Coder's Quest: A Geek's Guide into My Friend Circle 👋
+## Unlocking the Coder's Quest: A Geek's Guide into My Arrayship 👋
 
 - 👩🏻‍💻 My name is Trang Tran, but you can call me **Jane** — it’s much easier to pronounce!
 - 🎓 I graduated *Cum Laude* in Computer Science from UCSC in the Class of 2024. Go Banana Slugs!
